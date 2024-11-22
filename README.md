@@ -1,12 +1,11 @@
 # Eniac-Magist-Project
 # Project Reflection Template 
 ## Summary 
-[Provide a brief overview of your project.] 
+This project was created to help make data-driven decisions for Eniac on whether or not they should sign a deal with Magist, based on a database provided by the latter. Eniac's primary goal is to know whether to expand its business in Brazil, specifically with the collaboration of the local company; Magist. 
 ## Languages and Libraries Used 
-[List the programming languages, libraries, and tools utilized in your project.] 
+The main tools used for this project were Tableau and Google Slides. A secondary tool was used to extract missing tables: MySQL.
 ## Key Learnings 
-[Reflect on the main skills you practiced and insights gained from completing the project. Do not limit them to technical skills, remember as a Data Scientist a core part of your job is communicating technical insights to non-technical audiences.] 
+Two main aspects of the project were studied: Magist's expertise with Tech products, and Magist's delivery times. Basically, we learned that Magist is doing better both revenue-wise and with delivery delays as well, however, it is not showing as much promise as we expected. We decided to give Magist a one-year trial contract with a probation period and revisit the deal by the end of the trial.
 ## Challenges Overcame 
-[Share any challenges encountered during the project and how you overcame them.] 
+Magist's dataset was missing valuable information that could have shifted or enriched our analysis, but we worked with what was provided and tried to extract as much information and conclusions as possible. 
 ## Additional Reflections 
-[Feel free to add any additional reflections or insights gained from working on this project.]
